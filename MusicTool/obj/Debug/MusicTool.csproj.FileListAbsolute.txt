@@ -1,0 +1,12 @@
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.csprojResolveAssemblyReference.cache
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.MainForm.resources
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.Properties.Resources.resources
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.csproj.GenerateResource.Cache
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\MusicTool.exe.config
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\MusicTool.exe
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\MusicTool.pdb
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\taglib-sharp.dll
+D:\APplus\Test\MusicTool\MusicTool\bin\Debug\policy.2.0.taglib-sharp.config
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.exe
+D:\APplus\Test\MusicTool\MusicTool\obj\Debug\MusicTool.pdb
